@@ -1,2 +1,4 @@
 My first line in project
 Paris is capital of France
+task for index
+task for index2 not indexed
